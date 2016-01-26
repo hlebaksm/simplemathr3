@@ -1,0 +1,12 @@
+Package: simplemathr3
+Type: Package
+Title: Simple Math
+Version: 0.1.0
+Author: Sami Hlebak
+Maintainer: Sami Hlebak <hlebaksm@appstate.edu>
+Description: This package gives functions for squaring numbers and raising them to a power.
+License: GPL-2
+LazyData: TRUE
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
